@@ -2,7 +2,7 @@
 
 
 ## 🌐 Live Demo
-[**🚀 Open ShopOpt Live Demo**](https://chsaichandana1337-lgtm.github.io/ShopOpt-Hackthone-DAA-/)
+[**🚀 Open ShopOpt Live Demo**(https://chsaichandana1337-lgtm.github.io/ShopOpt-Hackthone-DAA-/)
 
 
 ## 📌 About the Project
