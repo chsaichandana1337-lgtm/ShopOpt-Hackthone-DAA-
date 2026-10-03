@@ -2,7 +2,7 @@
 
 
 ## 🌐 Live Demo
-https://ShopOpt-Hackthone-DAA.com
+https://github.com/chsaichandana1337-lgtm/ShopOpt-Hackthone-DAA-?utm_source=chatgpt.com
 
 
 ## 📌 About the Project
