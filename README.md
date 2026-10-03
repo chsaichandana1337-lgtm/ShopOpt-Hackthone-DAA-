@@ -2,7 +2,7 @@
 
 
 ## 🌐 Live Demo
-https://claude.ai/artifact/2YE55ybtsYDBoTqUEs3eCu
+https://wise-shopper-deals.lovable.app
 
 
 ## 📌 About the Project
