@@ -2,7 +2,7 @@
 
 
 ## 🌐 Live Demo
-https://smart-buy-mobile-sho-nodd.bolt.host
+ShopOpt Live Demo
 
 
 ## 📌 About the Project
