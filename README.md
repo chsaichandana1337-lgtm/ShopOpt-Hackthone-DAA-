@@ -2,7 +2,7 @@
 
 
 ## 🌐 Live Demo
-https://wise-shopper-deals.lovable.app
+https://chsaichandana1337-lgtm.github.io/ShopOpt-Hackthone-DAA-/?utm_source=chatgpt.com
 
 
 ## 📌 About the Project
