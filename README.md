@@ -1,9 +1,9 @@
 # ShopOpt-Hackthone-DAA-
-# Travel Itinerary Optimizer
+
 
 ## 🌐 Live Demo
+(file:///C:/Users/Admin/Desktop/shopOPT.html/shopopt%20(1).html)
 
-[Click here to open the Travel Itinerary Optimizer](file:///C:/Users/Admin/Desktop/shopOPT.html/shopopt%20(1).html)
 
 ## 📌 About the Project
 An algorithm-based shopping optimizer using 0/1 Knapsack, Sorting, and Binary Search to build budget-friendly product baskets and simplify smarter buying.
