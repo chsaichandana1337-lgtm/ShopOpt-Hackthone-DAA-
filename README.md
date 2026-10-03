@@ -2,7 +2,7 @@
 
 
 ## 🌐 Live Demo
-(file:///C:/Users/Admin/Desktop/shopOPT.html/shopopt%20(1).html)
+https://claude.ai/artifact/2YE55ybtsYDBoTqUEs3eCu
 
 
 ## 📌 About the Project
