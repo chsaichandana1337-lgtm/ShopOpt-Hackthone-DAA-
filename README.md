@@ -2,7 +2,7 @@
 
 
 ## 🌐 Live Demo
-https://github.com/chsaichandana1337-lgtm/ShopOpt-Hackthone-DAA-?utm_source=chatgpt.com
+https://smart-buy-mobile-sho-nodd.bolt.host
 
 
 ## 📌 About the Project
